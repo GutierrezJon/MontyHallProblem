@@ -1,2 +1,3 @@
-# MontyHallProblem
-A simple simulation of the Monty Hall Problem. 
+# Monty Hall Problem
+A simple simulation of the Monty Hall Problem. The problem is as follows. There are three doors. Two doors contain a goat and one contains a reward.
+You pick a door you believe contains the reward. The host will then remove one of the doors you didn't pick. The host will knows which door contains the reward and will not remove it. So there are only two doors remaining. The one you picked and the one you the host didn't remove. The host asks you if you would like to switch doors, or if you'd like to stick with your choice. Should you switch doors or should you stick with your first choice? Is there a difference? Let's find out!
