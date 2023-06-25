@@ -1,0 +1,3 @@
+Number of simulations: N = 100000
+Probability of winning when not switching 0.33084
+Probability of winning when switching 0.66827
