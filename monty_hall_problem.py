@@ -65,8 +65,8 @@ def main():
     # Save the output
     with open("output.txt", "w") as f:
         f.write(f"Number of simulations: N = {N}\n")
-        f.write(f"Probability of winning when not switching {num_wins_no_switch/N}\n")
-        f.write(f"Probability of winning when switching {num_wins_switch/N}")
+        f.write(f"Probability of winning when not switching: {num_wins_no_switch/N * 100}%\n")
+        f.write(f"Probability of winning when switching: {num_wins_switch/N * 100}%")
 
 
 if __name__ == "__main__":
